@@ -47,7 +47,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
   - [Yii](#yii)
   - [Plugin](#plugin)
   - [Python](#python)
-- [R](#r)
+  - [R](#r)
+  - [OSINT](#osint)
   - [Natural Language Processing](#natural-language-processing)
   - [Miscellaneous](#miscellaneous)
   - [Community](#community)
@@ -307,6 +308,10 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 # R
 
 - [KalkulatorPajak](https://github.com/yht/KalkulatorPajak) - Indonesian Tax Calculator
+
+# OSINT
+
+- [Belati](https://github.com/aancw/Belati) - Collecting Public Data & Public Document from Website
 
 ## Natural Language Processing
 

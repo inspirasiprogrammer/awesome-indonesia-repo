@@ -345,6 +345,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Hugo Indonesia](https://github.com/gohugoid)
 - [Lombokdev](https://github.com/LombokDev)
 - [Lombokjs](https://github.com/lombokjs)
+- [Machine Learning Lombok](https://github.com/mllombok)
 - [JemberDev](https://github.com/jember-dev)
 - [Banyuwangi Dev](https://github.com/banyuwangidev)
 - [Data Science Indonesia](https://github.com/datascienceid)

@@ -23,6 +23,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
   - [Awesome List](#awesome-list)
   - [Books](#books)
   - [Content Management System](#content-management-system)
+  - [Climate Change](#climate-change)
   - [Databases](#databases)
   - [Framework](#framework)
   - [Front-end Development](#front-end-development)
@@ -102,6 +103,10 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Fiyo CMS](https://github.com/FiyoCMS/FiyoCMS) - CMS Open Source with Easy Design, Fast Load, and SEO Friendly.
 - [HTMLy](https://github.com/danpros/htmly) - HTMLy is an Databaseless or Flat-File Blogging Platform prioritizes simplicity and speed written in PHP.
 - [PopojiCMS](https://github.com/PopojiCMS/PopojiCMS) - Buat Sendiri Rasa Webmu.
+
+## Climate Change
+
+- [Covid19 Indonesia Speech Recognition](https://github.com/VieriLusen/Covid19-SpeechRecognition) - Website for update information of covid-19 in province Indonesia with speech recognition.
 
 ## Databases
 

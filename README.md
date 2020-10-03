@@ -151,6 +151,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Fido](https://github.com/codenoid/Fido) - Distributed Storage, Easily distribute your data accross disk/node
 
 ## JavaScript
+
 - [PandaJS](https://github.com/rizki4106/pandajs) - pandajs is a library for create REST SERVER
 - [PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 - [jQuery Calx](https://github.com/xsanisty/jquery-calx) - jQuery plugin for creating formula-based calculation.
@@ -209,7 +210,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Guess the Number](https://github.com/widatama/guess-the-number) - A single player guess the number game made with Vue.js.
 
 ## Gridsome Starter
-
 
 ## Jekyll Theme
 
@@ -351,6 +351,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [BekasiJS](https://github.com/bekasijs)
 - [SurabayaJS](https://github.com/SurabayaJS)
 - [ReversingID](https://github.com/ReversingID)
+- [Indonesia Javascript](https://github.com/idjs)
 
 ## License
 

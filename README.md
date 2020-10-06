@@ -351,6 +351,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [BekasiJS](https://github.com/bekasijs)
 - [SurabayaJS](https://github.com/SurabayaJS)
 - [ReversingID](https://github.com/ReversingID)
+- [BughunterID](https://github.com/BugHunterID)
 
 ## License
 

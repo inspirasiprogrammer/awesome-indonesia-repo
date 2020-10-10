@@ -129,7 +129,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Word Chain](https://github.com/sonnylazuardi/wordchain) - Multiplayer word chaining game using AngularJS and firebase.
 - [KatanyaGomoku](https://github.com/mgilangjanuar/KatanyaGomoku) - Modification Game of Tic Tac Toe using Java Languange.
-- [Game Online Store](https://github.com/DeVoresyah/ZStore.git) - an online game store created with React Native
+- [Game Online Store](https://github.com/DeVoresyah/ZStore) - an online game store created with React Native
 
 ## Go
 

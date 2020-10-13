@@ -184,6 +184,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Java
 
 - [AndKasir](https://github.com/andriawan/AndKasir) - AndKasir merupakan Aplikasi Open Source berbasis Desktop yang dibangun dengan teknologi Java untuk kebutuhan retail perusahaan menengah dalam mengatur aktifitas barang masuk dan keluar.
+- [KalkulatorPrefix2Digit](https://github.com/adikurniawanid/JavaKalkulatorPrefix2Digit) - Kalkulator prefix 2 digit java dengan menggunakan struktur data Stack
 
 ## Angular
 

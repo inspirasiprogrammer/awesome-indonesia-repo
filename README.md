@@ -103,6 +103,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Elybin CMS](https://github.com/elybin/ElybinCMS) - Sistem manajemen konten gratis yang berfokus kepada kegunaan, kecepatan, dan kemudahan.
 - [Fiyo CMS](https://github.com/FiyoCMS/FiyoCMS) - CMS Open Source with Easy Design, Fast Load, and SEO Friendly.
 - [HTMLy](https://github.com/danpros/htmly) - HTMLy is an Databaseless or Flat-File Blogging Platform prioritizes simplicity and speed written in PHP.
+- [Mecha CMS](https://github.com/mecha-cms/mecha) - Mecha is a flat-file content management system that carries the concept of minimalism.
 - [PopojiCMS](https://github.com/PopojiCMS/PopojiCMS) - Buat Sendiri Rasa Webmu.
 
 ## Databases

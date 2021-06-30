@@ -47,10 +47,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
   - [Yii](#yii)
   - [Plugin](#plugin)
   - [Python](#python)
-- [R](#r)
+  - [R](#r)
   - [Natural Language Processing](#natural-language-processing)
   - [Miscellaneous](#miscellaneous)
   - [Community](#community)
+  - [Content Creator](#content-creator)
   - [License](#license)
 
 ## Android
@@ -362,10 +363,22 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [SurabayaJS](https://github.com/SurabayaJS)
 - [SurabayaDev](https://github.com/surabayadev)
 - [ReversingID](https://github.com/ReversingID)
+- [Indonesia Javascript](https://github.com/idjs)
 - [Pascal Indonesia](https://github.com/pascal-id)
 - [BughunterID](https://github.com/BugHunterID)
 - [Komunitas Programmer Semarang](https://programmer-semarang.com)
 - [React Native Indonesia](https://github.com/react-native-id)
+
+## Content Creator
+
+- [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg)
+- [Sekolah Koding](https://www.youtube.com/c/SekolahKoding)
+- [Prawito Hudoro](https://www.youtube.com/channel/UC4k3OBYU4q6MuspHVzZlkew)
+- [Kawan Koding](https://www.youtube.com/c/kawankoding)
+- [Kelas Terbuka](https://www.youtube.com/c/KelasTerbuka)
+- [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
+- [Indonesia Belajar](https://www.youtube.com/c/IndonesiaBelajarKomputer)
+- [Erico Darmawan Handoyo0](https://www.youtube.com/c/EricoDarmawanHandoyo)
 
 ## License
 

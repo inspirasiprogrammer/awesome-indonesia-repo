@@ -360,6 +360,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Kalimantan Selatan Javascript User Group](https://github.com/KalselJS)
 - [BekasiJS](https://github.com/bekasijs)
 - [SurabayaJS](https://github.com/SurabayaJS)
+- [SurabayaDev](https://github.com/surabayadev)
 - [ReversingID](https://github.com/ReversingID)
 - [Pascal Indonesia](https://github.com/pascal-id)
 - [BughunterID](https://github.com/BugHunterID)

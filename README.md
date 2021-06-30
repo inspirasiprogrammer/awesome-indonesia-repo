@@ -236,6 +236,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [PUEBI Daring](https://github.com/ivanlanin/puebi) - PUEBI Daring adalah versi web ramah gawai dari PUEBI Permendikbud 50/2015.
 - [TarungLab DDP1](https://github.com/laymonage/TarungLabDDP1) - Kumpulan materi pembelajaran dasar-dasar pemrograman dalam bahasa Python.
 - [Basic Go](https://github.com/novalagung/dasarpemrogramangolang) - Best E-Book Learn Go in Bahasa.
+- [Python101](https://github.com/sakti/python101) - Python beginner workshop material.
 
 ## Linux Software
 
@@ -355,6 +356,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Hugo Indonesia](https://github.com/gohugoid)
 - [Lombokdev](https://github.com/LombokDev)
 - [Lombokjs](https://github.com/lombokjs)
+- [Machine Learning Lombok](https://github.com/mllombok)
 - [JemberDev](https://github.com/jember-dev)
 - [Banyuwangi Dev](https://github.com/banyuwangidev)
 - [Data Science Indonesia](https://github.com/datascienceid)

@@ -49,6 +49,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
   - [Plugin](#plugin)
   - [Python](#python)
   - [R](#r)
+  - [OSINT](#osint)
+
   - [Natural Language Processing](#natural-language-processing)
   - [Miscellaneous](#miscellaneous)
   - [Community](#community)
@@ -321,11 +323,16 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Excel2api](https://github.com/FerdinaKusumah/excel2api) - Convert your excel data as api.
 - [Simple Face Recognition](https://github.com/FerdinaKusumah/face-recognition-webservice) - Simple face recognition with example.
 - [Corona data api](https://github.com/FerdinaKusumah/corona-api) - Corona data api with realtime data.
+- [Generate Random Password](https://github.com/hrtywhy/Random-Password-Generator) - Generate your random password and send it via Gmail
 - [PDDIKTI.kemdikbud](https://github.com/IlhamriSKY/PDDIKTI-kemdikbud-API) - Unofficial pddikti kemdikbud API Wrapper
 
 # R
 
 - [KalkulatorPajak](https://github.com/yht/KalkulatorPajak) - Indonesian Tax Calculator
+
+# OSINT
+
+- [Belati](https://github.com/aancw/Belati) - Collecting Public Data & Public Document from Website
 
 ## Natural Language Processing
 

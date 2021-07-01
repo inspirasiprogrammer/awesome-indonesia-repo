@@ -23,6 +23,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
   - [Awesome List](#awesome-list)
   - [Books](#books)
   - [Content Management System](#content-management-system)
+  - [Climate Change](#climate-change)
   - [Databases](#databases)
   - [Framework](#framework)
   - [Front-end Development](#front-end-development)
@@ -107,6 +108,10 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [HTMLy](https://github.com/danpros/htmly) - HTMLy is an Databaseless or Flat-File Blogging Platform prioritizes simplicity and speed written in PHP.
 - [Mecha CMS](https://github.com/mecha-cms/mecha) - Mecha is a flat-file content management system that carries the concept of minimalism.
 - [PopojiCMS](https://github.com/PopojiCMS/PopojiCMS) - Buat Sendiri Rasa Webmu.
+
+## Climate Change
+
+- [Covid19 Indonesia Speech Recognition](https://github.com/VieriLusen/Covid19-SpeechRecognition) - Website for update information of covid-19 in province Indonesia with speech recognition.
 
 ## Databases
 

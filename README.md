@@ -111,6 +111,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Databases
 
 - [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) - Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia.
+- [Qur'an dan Terjemah](https://github.com/fikimaul/get-data-quran-kemenag) - Data Qur'an dan terjemah bahasa indonesia dari kemenag.
 
 ## Framework
 

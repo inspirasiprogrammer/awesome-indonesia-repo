@@ -192,6 +192,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Simple Web Storage](https://github.com/sutanlab/simple-webstorage) - Lightweight utilities that can make easier to access application storage in client browser.
 - [Museum Indonesia CLI](https://github.com/maulana20/museum-id) - Open source Show Data Museum in Indonesia via Command-CLI.
 - [Data Wilayah](https://github.com/codenoid/Data-Wilayah.js) - Indonesia territory data in Javascript, so you don't backend/database
+- [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) - [Figma plugin] copy & paste color directly from your phone's camera to design plugins
 - [Aksara UI](https://github.com/kata-ai/aksara-ui) - Aksara UI is an implementation of Aksara using the React framework
 ## Java
 

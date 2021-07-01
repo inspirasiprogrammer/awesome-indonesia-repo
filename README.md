@@ -23,6 +23,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
   - [Awesome List](#awesome-list)
   - [Books](#books)
   - [Content Management System](#content-management-system)
+  - [Climate Change](#climate-change)
   - [Databases](#databases)
   - [Framework](#framework)
   - [Front-end Development](#front-end-development)
@@ -47,10 +48,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
   - [Yii](#yii)
   - [Plugin](#plugin)
   - [Python](#python)
-- [R](#r)
+  - [R](#r)
   - [Natural Language Processing](#natural-language-processing)
   - [Miscellaneous](#miscellaneous)
   - [Community](#community)
+  - [Content Creator](#content-creator)
   - [License](#license)
 
 ## Android
@@ -76,6 +78,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [DraggableView](https://github.com/hyuwah/DraggableView) - Android library to easily make floating draggable view (like Tokopedia's lucky egg or Bukalapak's maudikode).
 - [Android Image Picker](https://github.com/WendyYanto/android-image-picker) - Non-blocking image gallery library built using kotlin and coroutine to help user to choose image (single or multi)
 - [TicTacToe](https://github.com/WendyYanto/android-tic-tac-toe) - Android tictactoe game built using kotlin
+- [SheenValidator](https://github.com/rizmaulana/SheenValidator) - Android library to make form validation easier
+- [SmartMarker](https://github.com/utsmannn/SmartMarker) - Smart helper for marker movement in Google Maps and Mapbox
 
 ## Awesome List
 
@@ -86,6 +90,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group in Indonesia.
 - [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [Belajar ngoding dalam bahasa Indonesia](https://github.com/amuritna/belajar-ngoding-bhs-indo) - A list of Indonesian resources for learning to code.
+- [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) - List of Local API Indonesia.
 
 ## Books
 
@@ -101,11 +106,17 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Elybin CMS](https://github.com/elybin/ElybinCMS) - Sistem manajemen konten gratis yang berfokus kepada kegunaan, kecepatan, dan kemudahan.
 - [Fiyo CMS](https://github.com/FiyoCMS/FiyoCMS) - CMS Open Source with Easy Design, Fast Load, and SEO Friendly.
 - [HTMLy](https://github.com/danpros/htmly) - HTMLy is an Databaseless or Flat-File Blogging Platform prioritizes simplicity and speed written in PHP.
+- [Mecha CMS](https://github.com/mecha-cms/mecha) - Mecha is a flat-file content management system that carries the concept of minimalism.
 - [PopojiCMS](https://github.com/PopojiCMS/PopojiCMS) - Buat Sendiri Rasa Webmu.
+
+## Climate Change
+
+- [Covid19 Indonesia Speech Recognition](https://github.com/VieriLusen/Covid19-SpeechRecognition) - Website for update information of covid-19 in province Indonesia with speech recognition.
 
 ## Databases
 
 - [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) - Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia.
+- [Qur'an dan Terjemah](https://github.com/fikimaul/get-data-quran-kemenag) - Data Qur'an dan terjemah bahasa indonesia dari kemenag.
 
 ## Framework
 
@@ -129,6 +140,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Word Chain](https://github.com/sonnylazuardi/wordchain) - Multiplayer word chaining game using AngularJS and firebase.
 - [KatanyaGomoku](https://github.com/mgilangjanuar/KatanyaGomoku) - Modification Game of Tic Tac Toe using Java Languange.
+- [Game Online Store](https://github.com/DeVoresyah/ZStore) - an online game store created with React Native
 
 ## Go
 
@@ -140,6 +152,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Proctor](https://github.com/gojek/proctor) - A Developer-Friendly Automation Orchestrator.
 - [GoTral](https://github.com/codenoid/GoTral) - Go cenTralized config, for distributed software
 - [File.io Clone](https://github.com/codenoid/file.io) - File.io clone, file sharing with expiration
+- [Excel2Json](https://github.com/FerdinaKusumah/excel2json) - Convert your excel or excel datasource to json easily.
+- [Teleport](https://github.com/muhammadmuhlas/teleport) - A simple tool based on Go to migrate git repository.
 
 ## Haskell
 
@@ -179,10 +193,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Museum Indonesia CLI](https://github.com/maulana20/museum-id) - Open source Show Data Museum in Indonesia via Command-CLI.
 - [Data Wilayah](https://github.com/codenoid/Data-Wilayah.js) - Indonesia territory data in Javascript, so you don't backend/database
 - [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) - [Figma plugin] copy & paste color directly from your phone's camera to design plugins
-
+- [Aksara UI](https://github.com/kata-ai/aksara-ui) - Aksara UI is an implementation of Aksara using the React framework
 ## Java
 
 - [AndKasir](https://github.com/andriawan/AndKasir) - AndKasir merupakan Aplikasi Open Source berbasis Desktop yang dibangun dengan teknologi Java untuk kebutuhan retail perusahaan menengah dalam mengatur aktifitas barang masuk dan keluar.
+- [KalkulatorPrefix2Digit](https://github.com/adikurniawanid/JavaKalkulatorPrefix2Digit) - Kalkulator prefix 2 digit java dengan menggunakan struktur data Stack
 
 ## Angular
 
@@ -228,6 +243,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [PUEBI Daring](https://github.com/ivanlanin/puebi) - PUEBI Daring adalah versi web ramah gawai dari PUEBI Permendikbud 50/2015.
 - [TarungLab DDP1](https://github.com/laymonage/TarungLabDDP1) - Kumpulan materi pembelajaran dasar-dasar pemrograman dalam bahasa Python.
 - [Basic Go](https://github.com/novalagung/dasarpemrogramangolang) - Best E-Book Learn Go in Bahasa.
+- [Python101](https://github.com/sakti/python101) - Python beginner workshop material.
 
 ## Linux Software
 
@@ -303,6 +319,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Excel2api](https://github.com/FerdinaKusumah/excel2api) - Convert your excel data as api.
 - [Simple Face Recognition](https://github.com/FerdinaKusumah/face-recognition-webservice) - Simple face recognition with example.
 - [Corona data api](https://github.com/FerdinaKusumah/corona-api) - Corona data api with realtime data.
+- [PDDIKTI.kemdikbud](https://github.com/IlhamriSKY/PDDIKTI-kemdikbud-API) - Unofficial pddikti kemdikbud API Wrapper
 
 # R
 
@@ -321,6 +338,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Indonesia on Top Regional Repositories](https://github.com/lorey/top-regional-repositories/blob/master/countries/indonesia.md) - Popular repositories in Indonesia.
 - [Topojson of Indonesia](https://github.com/tvalentius/Indonesia-topojson) - TopoJSON of Indonesia (Kota/Kabupaten Level), useful for data visualisation.
 - [OpenRetail](https://github.com/rudi-krsoftware/open-retail) - Perangkat lunak open source yang dikembangkan khusus untuk bidang usaha ritel, grosir, toko bangunan, toko komputer, toko buku, counter hp, pos, point of sale, kasir dan bidang usaha lainnya yang sejenis.
+- [Peta Indonesia GeoJSON](https://github.com/ans-4175/peta-indonesia-geojson) - Provincial GeoJSON data for Indonesia. Useful for making choropleth visualizations for Data Science projects. (by [ans-4175](https://github.com/ans-4175))
 
 ## Community
 
@@ -345,13 +363,32 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Hugo Indonesia](https://github.com/gohugoid)
 - [Lombokdev](https://github.com/LombokDev)
 - [Lombokjs](https://github.com/lombokjs)
+- [Machine Learning Lombok](https://github.com/mllombok)
 - [JemberDev](https://github.com/jember-dev)
 - [Banyuwangi Dev](https://github.com/banyuwangidev)
 - [Data Science Indonesia](https://github.com/datascienceid)
 - [Kalimantan Selatan Javascript User Group](https://github.com/KalselJS)
 - [BekasiJS](https://github.com/bekasijs)
 - [SurabayaJS](https://github.com/SurabayaJS)
+- [SurabayaDev](https://github.com/surabayadev)
 - [ReversingID](https://github.com/ReversingID)
+- [Android Developer Serang](https://github.com/androidev-serang)
+- [Indonesia Javascript](https://github.com/idjs)
+- [Pascal Indonesia](https://github.com/pascal-id)
+- [BughunterID](https://github.com/BugHunterID)
+- [Komunitas Programmer Semarang](https://programmer-semarang.com)
+- [React Native Indonesia](https://github.com/react-native-id)
+
+## Content Creator
+
+- [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg)
+- [Sekolah Koding](https://www.youtube.com/c/SekolahKoding)
+- [Prawito Hudoro](https://www.youtube.com/channel/UC4k3OBYU4q6MuspHVzZlkew)
+- [Kawan Koding](https://www.youtube.com/c/kawankoding)
+- [Kelas Terbuka](https://www.youtube.com/c/KelasTerbuka)
+- [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
+- [Indonesia Belajar](https://www.youtube.com/c/IndonesiaBelajarKomputer)
+- [Erico Darmawan Handoyo0](https://www.youtube.com/c/EricoDarmawanHandoyo)
 
 ## License
 

@@ -201,6 +201,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) - [Figma plugin] copy & paste color directly from your phone's camera to design plugins
 - [Aksara UI](https://github.com/kata-ai/aksara-ui) - Aksara UI is an implementation of Aksara using the React framework
 - [Malibu](https://github.com/tinyhttp/malibu) - Framework-agnostic CSRF middleware, for Express, vanilla HTTP, Tinyhttp, Polka, and more!
+- [giscus](https://github.com/giscus/giscus) - A comments system for any site, static or dynamic, powered by GitHub Discussions.
 
 ## Java
 

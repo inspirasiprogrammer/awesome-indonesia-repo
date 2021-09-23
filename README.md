@@ -49,6 +49,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
   - [Plugin](#plugin)
   - [Python](#python)
   - [R](#r)
+  - [Ruby](#ruby)
   - [OSINT](#osint)
 
   - [Natural Language Processing](#natural-language-processing)
@@ -329,6 +330,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 # R
 
 - [KalkulatorPajak](https://github.com/yht/KalkulatorPajak) - Indonesian Tax Calculator
+
+# Ruby
+- [Musik88](https://musik88.com/) - Komunitas musik berbasis kecerdasan buatan. Ditulis dengan Ruby on Rails dan beberapa perangkat lunak sumber-terbuka lainnya ([Stackshare](https://stackshare.io/musik88/musik88-web)).
 
 # OSINT
 

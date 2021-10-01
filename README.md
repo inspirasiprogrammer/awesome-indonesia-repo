@@ -395,6 +395,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg)
 - [Sekolah Koding](https://www.youtube.com/c/SekolahKoding)
 - [Prawito Hudoro](https://www.youtube.com/channel/UC4k3OBYU4q6MuspHVzZlkew)
+- [Parsinta](https://www.youtube.com/c/parsinta)
 - [Kawan Koding](https://www.youtube.com/c/kawankoding)
 - [Kelas Terbuka](https://www.youtube.com/c/KelasTerbuka)
 - [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)

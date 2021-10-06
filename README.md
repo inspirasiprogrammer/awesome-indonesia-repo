@@ -49,6 +49,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
   - [Plugin](#plugin)
   - [Python](#python)
   - [R](#r)
+  - [Ruby](#ruby)
   - [OSINT](#osint)
 
   - [Natural Language Processing](#natural-language-processing)
@@ -158,6 +159,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Go-Payment](https://github.com/imrenagi/go-payment) - Payment module used as proxy for multiple payment gateways. Currently it only supports Midtrans SNAP and Xendit Ewallet and XenInvoice.
 - [Excel2Json](https://github.com/FerdinaKusumah/excel2json) - Convert your excel or excel datasource to json easily.
 - [Teleport](https://github.com/muhammadmuhlas/teleport) - A simple tool based on Go to migrate git repository.
+- [PHC Crypto](https://github.com/aldy505/phc-crypto) - Password hashing algorithm based on PHC standard, inspired by Upash package from Node.js
 
 ## Haskell
 
@@ -198,6 +200,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Data Wilayah](https://github.com/codenoid/Data-Wilayah.js) - Indonesia territory data in Javascript, so you don't backend/database
 - [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) - [Figma plugin] copy & paste color directly from your phone's camera to design plugins
 - [Aksara UI](https://github.com/kata-ai/aksara-ui) - Aksara UI is an implementation of Aksara using the React framework
+- [Malibu](https://github.com/tinyhttp/malibu) - Framework-agnostic CSRF middleware, for Express, vanilla HTTP, Tinyhttp, Polka, and more!
+
 ## Java
 
 - [AndKasir](https://github.com/andriawan/AndKasir) - AndKasir merupakan Aplikasi Open Source berbasis Desktop yang dibangun dengan teknologi Java untuk kebutuhan retail perusahaan menengah dalam mengatur aktifitas barang masuk dan keluar.
@@ -248,6 +252,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [TarungLab DDP1](https://github.com/laymonage/TarungLabDDP1) - Kumpulan materi pembelajaran dasar-dasar pemrograman dalam bahasa Python.
 - [Basic Go](https://github.com/novalagung/dasarpemrogramangolang) - Best E-Book Learn Go in Bahasa.
 - [Python101](https://github.com/sakti/python101) - Python beginner workshop material.
+- [Dart](https://github.com/bellshade/Dart) - Belajar contoh struktur data, algoritma dan komputasi matematika yang diimplementasikan dengan menggunakan bahasa pemrograman Dart.
 
 ## Linux Software
 
@@ -330,6 +335,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [KalkulatorPajak](https://github.com/yht/KalkulatorPajak) - Indonesian Tax Calculator
 
+# Ruby
+- [Musik88](https://musik88.com/) - Komunitas musik berbasis kecerdasan buatan. Ditulis dengan Ruby on Rails dan beberapa perangkat lunak sumber-terbuka lainnya ([Stackshare](https://stackshare.io/musik88/musik88-web)).
+
 # OSINT
 
 - [Belati](https://github.com/aancw/Belati) - Collecting Public Data & Public Document from Website
@@ -407,3 +415,5 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+##Hactoberfest 2021

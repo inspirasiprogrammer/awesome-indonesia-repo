@@ -350,6 +350,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Topojson of Indonesia](https://github.com/tvalentius/Indonesia-topojson) - TopoJSON of Indonesia (Kota/Kabupaten Level), useful for data visualisation.
 - [OpenRetail](https://github.com/rudi-krsoftware/open-retail) - Perangkat lunak open source yang dikembangkan khusus untuk bidang usaha ritel, grosir, toko bangunan, toko komputer, toko buku, counter hp, pos, point of sale, kasir dan bidang usaha lainnya yang sejenis.
 - [Peta Indonesia GeoJSON](https://github.com/ans-4175/peta-indonesia-geojson) - Provincial GeoJSON data for Indonesia. Useful for making choropleth visualizations for Data Science projects. (by [ans-4175](https://github.com/ans-4175))
+- [thedev.id](https://github.com/fransallen/thedev.id) - An identity for developers on the web. (Subdomain)
 
 ## Community
 
@@ -406,3 +407,5 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+##Hactoberfest 2021

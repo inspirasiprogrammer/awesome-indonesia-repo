@@ -158,6 +158,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Go-Payment](https://github.com/imrenagi/go-payment) - Payment module used as proxy for multiple payment gateways. Currently it only supports Midtrans SNAP and Xendit Ewallet and XenInvoice.
 - [Excel2Json](https://github.com/FerdinaKusumah/excel2json) - Convert your excel or excel datasource to json easily.
 - [Teleport](https://github.com/muhammadmuhlas/teleport) - A simple tool based on Go to migrate git repository.
+- [PHC Crypto](https://github.com/aldy505/phc-crypto) - Password hashing algorithm based on PHC standard, inspired by Upash package from Node.js
 
 ## Haskell
 
@@ -250,6 +251,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [TarungLab DDP1](https://github.com/laymonage/TarungLabDDP1) - Kumpulan materi pembelajaran dasar-dasar pemrograman dalam bahasa Python.
 - [Basic Go](https://github.com/novalagung/dasarpemrogramangolang) - Best E-Book Learn Go in Bahasa.
 - [Python101](https://github.com/sakti/python101) - Python beginner workshop material.
+- [Dart](https://github.com/bellshade/Dart) - Belajar contoh struktur data, algoritma dan komputasi matematika yang diimplementasikan dengan menggunakan bahasa pemrograman Dart.
 
 ## Linux Software
 
@@ -351,6 +353,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Topojson of Indonesia](https://github.com/tvalentius/Indonesia-topojson) - TopoJSON of Indonesia (Kota/Kabupaten Level), useful for data visualisation.
 - [OpenRetail](https://github.com/rudi-krsoftware/open-retail) - Perangkat lunak open source yang dikembangkan khusus untuk bidang usaha ritel, grosir, toko bangunan, toko komputer, toko buku, counter hp, pos, point of sale, kasir dan bidang usaha lainnya yang sejenis.
 - [Peta Indonesia GeoJSON](https://github.com/ans-4175/peta-indonesia-geojson) - Provincial GeoJSON data for Indonesia. Useful for making choropleth visualizations for Data Science projects. (by [ans-4175](https://github.com/ans-4175))
+- [thedev.id](https://github.com/fransallen/thedev.id) - An identity for developers on the web. (Subdomain)
 
 ## Community
 
@@ -407,3 +410,5 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+##Hactoberfest 2021

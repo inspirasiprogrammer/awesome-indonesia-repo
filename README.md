@@ -158,6 +158,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Go-Payment](https://github.com/imrenagi/go-payment) - Payment module used as proxy for multiple payment gateways. Currently it only supports Midtrans SNAP and Xendit Ewallet and XenInvoice.
 - [Excel2Json](https://github.com/FerdinaKusumah/excel2json) - Convert your excel or excel datasource to json easily.
 - [Teleport](https://github.com/muhammadmuhlas/teleport) - A simple tool based on Go to migrate git repository.
+- [PHC Crypto](https://github.com/aldy505/phc-crypto) - Password hashing algorithm based on PHC standard, inspired by Upash package from Node.js
 
 ## Haskell
 
@@ -407,3 +408,5 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+##Hactoberfest 2021

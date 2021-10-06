@@ -95,6 +95,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Belajar ngoding dalam bahasa Indonesia](https://github.com/amuritna/belajar-ngoding-bhs-indo) - A list of Indonesian resources for learning to code.
 - [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) - List of Local API Indonesia.
 - [Indonesia Cyber Security Resources](https://github.com/Screetsec/Cybersecurity-Indonesia) - Kumpulan Course pembalajaran tentang Cyber Security & Hacking secara GRATIS.
+- [Awesome Speakers Indonesia](https://github.com/rizafahmi/awesome-speakers-id) - Para developer keren asal Indonesia yang bisa diundang ke acara komunitas dan konferensi sebagai pembicara atau narasumber.
 
 ## Books
 

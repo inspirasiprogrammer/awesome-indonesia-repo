@@ -249,6 +249,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [TarungLab DDP1](https://github.com/laymonage/TarungLabDDP1) - Kumpulan materi pembelajaran dasar-dasar pemrograman dalam bahasa Python.
 - [Basic Go](https://github.com/novalagung/dasarpemrogramangolang) - Best E-Book Learn Go in Bahasa.
 - [Python101](https://github.com/sakti/python101) - Python beginner workshop material.
+- [Dart](https://github.com/bellshade/Dart) - Belajar contoh struktur data, algoritma dan komputasi matematika yang diimplementasikan dengan menggunakan bahasa pemrograman Dart.
 
 ## Linux Software
 

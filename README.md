@@ -94,6 +94,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [Belajar ngoding dalam bahasa Indonesia](https://github.com/amuritna/belajar-ngoding-bhs-indo) - A list of Indonesian resources for learning to code.
 - [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) - List of Local API Indonesia.
+- [Indonesia Cyber Security Resources](https://github.com/Screetsec/Cybersecurity-Indonesia) - Kumpulan Course pembalajaran tentang Cyber Security & Hacking secara GRATIS.
 
 ## Books
 

@@ -205,6 +205,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Aksara UI](https://github.com/kata-ai/aksara-ui) - Aksara UI is an implementation of Aksara using the React framework
 - [Malibu](https://github.com/tinyhttp/malibu) - Framework-agnostic CSRF middleware, for Express, vanilla HTTP, Tinyhttp, Polka, and more!
 - [giscus](https://github.com/giscus/giscus) - A comments system for any site, static or dynamic, powered by GitHub Discussions.
+- [carakan.js](https://github.com/masnormen/carakanjs) - carakan.js is a small library for converting Latin script into Javanese script, also known as Aksara Jawa/Carakan.
 
 ## Java
 

@@ -96,6 +96,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) - List of Local API Indonesia.
 - [Indonesia Cyber Security Resources](https://github.com/Screetsec/Cybersecurity-Indonesia) - Kumpulan Course pembalajaran tentang Cyber Security & Hacking secara GRATIS.
 - [Awesome Speakers Indonesia](https://github.com/rizafahmi/awesome-speakers-id) - Para developer keren asal Indonesia yang bisa diundang ke acara komunitas dan konferensi sebagai pembicara atau narasumber.
+- [Awesome Loker IT Indonesia](https://github.com/satyawikananda/awesome-loker-it-indonesia) - Kumpulan daftar lowongan kerja IT yang ada di Indonesia.
 
 ## Books
 
@@ -279,6 +280,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [MIKHMON - MikroTik Hotspot Monitor](https://github.com/laksa19/mikhmonv3)- MikroTik Hotspot Monitor adalah aplikasi berbasis web (MikroTik API PHP class) untuk membantu manajemen Hotspot MikroTik. Khususnya MikroTik yang tidak mendukung User Manager.
 - [Pub/Sub Redis for PHP](https://github.com/RioRizkyRainey/pubsub-redis-php) - Implementasi Publisher-Subscriber Pattern pada PHP menggunakan Redis
 - [PHP-Spellchecker](https://github.com/RioRizkyRainey/PHP-Spellchecker) - Spellchecker atau Typo detector menggunakan PHP. Tersedia juga assets dictionary untuk Bahasa Indonesia
+- [PHP-E-Commerce](https://github.com/FadellMuhammad/E-commerce) - E-Commerce sederhana, terdapat fitur daftar,login dan profile.
 
 ## CodeIgniter
 

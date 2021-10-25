@@ -412,6 +412,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
 - [Indonesia Belajar](https://www.youtube.com/c/IndonesiaBelajarKomputer)
 - [Erico Darmawan Handoyo0](https://www.youtube.com/c/EricoDarmawanHandoyo)
+- [Insinyur Online](https://www.youtube.com/c/InsinyurOnline)
 
 ## License
 

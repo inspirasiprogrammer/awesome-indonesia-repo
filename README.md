@@ -5,8 +5,8 @@
 [![Gitter](https://img.shields.io/:chat-on_gitter-ED2067.svg)](https://gitter.im/GitIndonesia/awesome-indonesia-repo)
 [![Country](https://img.shields.io/badge/country-indonesia-blue.svg)](#)
 
-A curated list of amazingly awesome repository created and contributed by Indonesian people.<br>
-It aims to inspire what has been made by Indonesian people and hopefully can give you encouragement to contribute in Open-source software.
+A curated list of awesome and amazing repositories created and contributed to by Indonesians.<br>
+This list aims to inspire others and hopefully give encouragement for individuals to contribute in open-source development.
 
 Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
@@ -124,7 +124,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) - Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia.
 - [Qur'an dan Terjemah](https://github.com/fikimaul/get-data-quran-kemenag) - Data Qur'an dan terjemah bahasa indonesia dari kemenag.
 
-## Framework
+## Frameworks
 
 - [Panada](https://github.com/panada/Panada) - High performance PHP development framework, yet simple.
 - [Puko Framework](https://github.com/Velliz/pukoframework) - MVC framework for quick PHP application development.
@@ -142,7 +142,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [React Komik](https://github.com/sonnylazuardi/react-komik) - ReactJS based comic strip creator using fabric.js canvas rendering.
 - [Stisla](https://github.com/stisla/stisla) - A Free Bootstrap Admin Template which will help you to speed up your project and design your own dashboard UI
 
-## Game
+## Games
 
 - [Word Chain](https://github.com/sonnylazuardi/wordchain) - Multiplayer word chaining game using AngularJS and firebase.
 - [KatanyaGomoku](https://github.com/mgilangjanuar/KatanyaGomoku) - Modification Game of Tic Tac Toe using Java Languange.
@@ -320,7 +320,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Yii2 Admin](https://github.com/mdmsoft/yii2-admin) - Auth manager for Yii2 (RBAC Manager).
 
-## Plugin
+## Plugins
 
 - [WP Slack](https://github.com/gedex/wp-slack) - This plugin allows you to send notifications to Slack channels when certain events in WordPress occur.
 - [Minimalist](https://github.com/dikiaap/minimalist) - A Material Colorscheme Darker for Vim.
@@ -421,6 +421,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ##Hactoberfest 2021

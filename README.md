@@ -283,6 +283,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Pub/Sub Redis for PHP](https://github.com/RioRizkyRainey/pubsub-redis-php) - Implementasi Publisher-Subscriber Pattern pada PHP menggunakan Redis
 - [PHP-Spellchecker](https://github.com/RioRizkyRainey/PHP-Spellchecker) - Spellchecker atau Typo detector menggunakan PHP. Tersedia juga assets dictionary untuk Bahasa Indonesia
 - [PHP-E-Commerce](https://github.com/FadellMuhammad/E-commerce) - E-Commerce sederhana, terdapat fitur daftar,login dan profile.
+- [R_CRUD](https://github.com/ICWR-TEAM/R-CRUD) - CRUD PHP Plugins. Fungsi CRUD untuk mempermudah scripting yang berhubungan dengan CRUD.
 
 ## CodeIgniter
 

@@ -5,8 +5,8 @@
 [![Gitter](https://img.shields.io/:chat-on_gitter-ED2067.svg)](https://gitter.im/GitIndonesia/awesome-indonesia-repo)
 [![Country](https://img.shields.io/badge/country-indonesia-blue.svg)](#)
 
-A curated list of amazingly awesome repository created and contributed by Indonesian people.<br>
-It aims to inspire what has been made by Indonesian people and hopefully can give you encouragement to contribute in Open-source software.
+A curated list of awesome and amazing repositories created and contributed to by Indonesians.<br>
+This list aims to inspire others and hopefully give encouragement for individuals to contribute in open-source development.
 
 Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
@@ -61,78 +61,79 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Android
 
 - [Android StepsView](https://github.com/anton46/Android-StepsView) - A simple progress steps view on Android.
-- [WhatsApp ProfileCollapsingToolbar](https://github.com/anton46/WhatsApp-ProfileCollapsingToolbar) - An Android custom animation view that looks like WhastApp Profile screen style.
-- [Ziliun React Native](https://github.com/sonnylazuardi/ziliun-react-native) - Ziliun article reader android app built with React Native.
+- [WhatsApp ProfileCollapsingToolbar](https://github.com/anton46/WhatsApp-ProfileCollapsingToolbar) - An Android custom animation similar to the WhatsApp Profile screen style.
+- [Ziliun React Native](https://github.com/sonnylazuardi/ziliun-react-native) - Ziliun article reader Android app built with React Native.
 - [React Tomato Timer](https://github.com/sonnylazuardi/react-tomato-timer) - A simple timer for a more productive way to work and study built with ReactJS.
-- [Compressor](https://github.com/zetbaitsu/Compressor) - An android image compression library.
+- [Compressor](https://github.com/zetbaitsu/Compressor) - An Android image compression library.
 - [android-base-mvp](https://github.com/derohimat/android-base-mvp) - Android Base MVP Concept with RXJava, Dagger, Event Bus, Retrofit, Glide, OkHTTP.
 - [RxDownloader](https://github.com/esafirm/RxDownloader) - An Rx wrapper for Download Manager in Android.
-- [ImageEffectFilter](https://github.com/mnafian/ImageEffectFilter) - Android image filter processing sample using layer drawable and effect factory android.
-- [React Native Credit Card](https://github.com/sonnylazuardi/react-native-credit-card) - React native credit card display component.
+- [ImageEffectFilter](https://github.com/mnafian/ImageEffectFilter) - Android image filter processing sample using layer drawable and effect factory.
+- [React Native Credit Card](https://github.com/sonnylazuardi/react-native-credit-card) - React Native credit card display component.
 - [Android Color Picker](https://github.com/yukuku/ambilwarna) - To customize the color of some background, text, or maybe for a painting application.
-- [ImagePicker](https://github.com/esafirm/android-image-picker) - A configureable library to select image from gallery and camera without the hassle.
-- [CafeBar](https://github.com/danimahardhika/cafebar) - An upgraded Snackbar for Android that provides more options and easy to use.
+- [ImagePicker](https://github.com/esafirm/android-image-picker) - A configureable library to select image from gallery and camera without hassle.
+- [CafeBar](https://github.com/danimahardhika/cafebar) - An upgraded Snackbar for Android that provides more options and an ease of use.
 - [CandyBar](https://github.com/danimahardhika/candybar-library) - Android icon pack dashboard library.
 - [WallpaperBoard](https://github.com/danimahardhika/wallpaperboard) - Android wallpaper dashboard library.
-- [Nike+ Running - React Native](https://github.com/sonnylazuardi/react-native-nike-running) - UI & UX Prototype of redesigned Nike+ Running App.
+- [Nike+ Running - React Native](https://github.com/sonnylazuardi/react-native-nike-running) - UI & UX prototype of redesigned Nike+ Running App.
 - [Subtitle CollapsingToolbarLayout](https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle) - Standard CollapsingToolbarLayout with subtitle support.
 - [Benih](https://github.com/zetbaitsu/Benih) - A standard template for Android apps by Zelory
 - [YuanaItemSettingView](https://github.com/andhikayuana/YuanaItemSettingView) - Customizable Item Setting View for Android
-- [DraggableView](https://github.com/hyuwah/DraggableView) - Android library to easily make floating draggable view (like Tokopedia's lucky egg or Bukalapak's maudikode).
-- [Android Image Picker](https://github.com/WendyYanto/android-image-picker) - Non-blocking image gallery library built using kotlin and coroutine to help user to choose image (single or multi)
-- [TicTacToe](https://github.com/WendyYanto/android-tic-tac-toe) - Android tictactoe game built using kotlin
-- [SheenValidator](https://github.com/rizmaulana/SheenValidator) - Android library to make form validation easier
+- [DraggableView](https://github.com/hyuwah/DraggableView) - Android library to easily make floating draggable view (similar to Tokopedia's lucky egg or Bukalapak's maudikode).
+- [Android Image Picker](https://github.com/WendyYanto/android-image-picker) - Non-blocking image gallery library built using Kotlin and Coroutine to help users when choosing images.
+- [TicTacToe](https://github.com/WendyYanto/android-tic-tac-toe) - Android Tic-Tac-Toe game built using Kotlin.
+- [SheenValidator](https://github.com/rizmaulana/SheenValidator) - Android library to ease form validation.
 - [SmartMarker](https://github.com/utsmannn/SmartMarker) - Smart helper for marker movement in Google Maps and Mapbox
 
 ## Awesome List
 
-- [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo) - A curated list of amazingly awesome repository created by Indonesian people.
+- [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo) - A curated list of awesome and amazing repositories created by Indonesians.
 - [Awesome CodeIgniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome CodeIgniter core, helpers, hooks, language, libraries, and third party.
 - [Engineering Blogs](https://github.com/sumodirjo/engineering-blogs) - A curated list of engineering blog of startup and enterprise company.
 - [NLP Bahasa Indonesia](https://github.com/sastrawi/nlp-bahasa-indonesia) - A curated list of Indonesian Natural Language Processing resources.
-- [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group in Indonesia.
-- [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+- [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - Non-exhaustive list of Indonesian Telegram groups focused on programming.
+- [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high-quality coding style conventions and standards.
 - [Belajar ngoding dalam bahasa Indonesia](https://github.com/amuritna/belajar-ngoding-bhs-indo) - A list of Indonesian resources for learning to code.
-- [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) - List of Local API Indonesia.
-- [Indonesia Cyber Security Resources](https://github.com/Screetsec/Cybersecurity-Indonesia) - Kumpulan Course pembalajaran tentang Cyber Security & Hacking secara GRATIS.
-- [Awesome Speakers Indonesia](https://github.com/rizafahmi/awesome-speakers-id) - Para developer keren asal Indonesia yang bisa diundang ke acara komunitas dan konferensi sebagai pembicara atau narasumber.
+- [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) - List of Indonesian local APIs.
+- [Indonesia Cyber Security Resources](https://github.com/Screetsec/Cybersecurity-Indonesia) - Kumpulan Course pembalajaran tentang *cybersecurity* & *hacking* secara gratis.
+- [Awesome Speakers Indonesia](https://github.com/rizafahmi/awesome-speakers-id) - Para developer asal Indonesia yang diundang ke acara komunitas dan konferensi sebagai pembicara atau narasumber.
 - [Awesome Loker IT Indonesia](https://github.com/satyawikananda/awesome-loker-it-indonesia) - Kumpulan daftar lowongan kerja IT yang ada di Indonesia.
 
 ## Books
 
-- [Free Programming Books Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-id.md) - Freely available programming books with Indonesia Language.
-- [Buku Git](https://github.com/endymuhardin/buku-git) - Buku Version Control menggunakan Git.
-- [E-Library MDC](https://github.com/MuhammadiyahDeveloperClub/E-Library) - E-Library yang berisi kumpulan E-Book tentang dunia IT.
+- [Free Programming Books Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-id.md) - Freely available programming books written in Indonesian.
+- [Buku Git](https://github.com/endymuhardin/buku-git) - Buku *Version Control* menggunakan `Git`.
+- [E-Library MDC](https://github.com/MuhammadiyahDeveloperClub/E-Library) - *E-library* yang berisi kumpulan *E-book* tentang dunia IT.
 - [JVM Handbook](https://github.com/bliblidotcom/jvm-handbook) - Buku pembahasan detil tentang cara kerja dan internal JVM.
 
 ## Content Management System
 
-- [Lentera](https://github.com/laravel-indonesia/lentera) - Learning Management from Nusantara.
+- [Lentera](https://github.com/laravel-indonesia/lentera) - Indonesian Learning Management System (LMS).
 - [Pusaka CMS](https://github.com/codepolitanlab/pusakacms) - File-based CMS build with CodeIgniter Framework.
 - [Elybin CMS](https://github.com/elybin/ElybinCMS) - Sistem manajemen konten gratis yang berfokus kepada kegunaan, kecepatan, dan kemudahan.
-- [Fiyo CMS](https://github.com/FiyoCMS/FiyoCMS) - CMS Open Source with Easy Design, Fast Load, and SEO Friendly.
-- [HTMLy](https://github.com/danpros/htmly) - HTMLy is an Databaseless or Flat-File Blogging Platform prioritizes simplicity and speed written in PHP.
+- [Fiyo CMS](https://github.com/FiyoCMS/FiyoCMS) - Open-source CMS built with a friendly design, fast loading time, and SEO-friendliness.
+- [HTMLy](https://github.com/danpros/htmly) - HTMLy is a database-less or flat-file blogging platform prioritizing simplicity and speed written in PHP.
 - [Mecha CMS](https://github.com/mecha-cms/mecha) - Mecha is a flat-file content management system that carries the concept of minimalism.
 - [PopojiCMS](https://github.com/PopojiCMS/PopojiCMS) - Buat Sendiri Rasa Webmu.
 
 ## Climate Change
 
-- [Covid19 Indonesia Speech Recognition](https://github.com/VieriLusen/Covid19-SpeechRecognition) - Website for update information of covid-19 in province Indonesia with speech recognition.
+- [Covid19 Indonesia Speech Recognition](https://github.com/VieriLusen/Covid19-SpeechRecognition) - Website for updating the Covid-19 information in Indonesian provinces built with speech recognition in mind.
 
 ## Databases
 
 - [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) - Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia.
-- [Qur'an dan Terjemah](https://github.com/fikimaul/get-data-quran-kemenag) - Data Qur'an dan terjemah bahasa indonesia dari kemenag.
+- [Qur'an dan Terjemah](https://github.com/fikimaul/get-data-quran-kemenag) - Data Qur'an dan terjemah bahasa indonesia dari Kemenag.
 
-## Framework
+## Frameworks
 
-- [Panada](https://github.com/panada/Panada) - High performance PHP development framework, yet simple.
+- [Panada](https://github.com/panada/Panada) - High performance and simple PHP development framework.
 - [Puko Framework](https://github.com/Velliz/pukoframework) - MVC framework for quick PHP application development.
 - [IGOS Nusantara SDK](https://github.com/ignsdk/ignsdk-qt) - A SDK designed specifically for application developers in IGOS Nusantara.
-- [EmeraldBox](https://github.com/femmerling/EmeraldBox) - EmeraldBox is a boilerplate framework for developing python web applications with database access.
-- [Scarlets](https://github.com/ScarletsFiction/Scarlets) - Multipurpose and high performance PHP framework
-- [ScarletsFrame](https://github.com/ScarletsFiction/ScarletsFrame) - A frontend framework that can help you write a simple web structure
+- [EmeraldBox](https://github.com/femmerling/EmeraldBox) - EmeraldBox is a boilerplate framework for developing Python web applications with database access.
+- [Scarlets](https://github.com/ScarletsFiction/Scarlets) - Multipurpose and high performance PHP framework.
+- [ScarletsFrame](https://github.com/ScarletsFiction/ScarletsFrame) - A frontend framework that can help you write a simple web structure.
 - [Brutal PHP Framework](https://github.com/sonyarianto/brutal-php-framework) - A simple PHP framework for vanilla PHP programmer with taste of Twig and Symfony Routing. Database and other component is up to programmer to decide.
+- [Lunox](https://github.com/kodepintar/lunox) - Laravel-Flavoured Nodejs Framework.
 
 ## Front-end Development
 
@@ -140,14 +141,15 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
 - [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
 - [React Komik](https://github.com/sonnylazuardi/react-komik) - ReactJS based comic strip creator using fabric.js canvas rendering.
-- [Stisla](https://github.com/stisla/stisla) - A Free Bootstrap Admin Template which will help you to speed up your project and design your own dashboard UI
+- [Stisla](https://github.com/stisla/stisla) - A free Bootstrap admin template which helps speed up your project and design your own dashboard UI.
 
-## Game
+## Games
 
-- [Word Chain](https://github.com/sonnylazuardi/wordchain) - Multiplayer word chaining game using AngularJS and firebase.
-- [KatanyaGomoku](https://github.com/mgilangjanuar/KatanyaGomoku) - Modification Game of Tic Tac Toe using Java Languange.
+- [Word Chain](https://github.com/sonnylazuardi/wordchain) - Multiplayer word chaining game using AngularJS and Firebase.
+- [KatanyaGomoku](https://github.com/mgilangjanuar/KatanyaGomoku) - Modified Tic-Tac-Toe using Java.
 - [WhatsApp bot](https://github.com/SlmnMEDIA/whatsapp-bot) - WhatsApp bot insideheart basis linux
-- [Game Online Store](https://github.com/DeVoresyah/ZStore) - an online game store created with React Native
+- [Game Online Store](https://github.com/DeVoresyah/ZStore) - Online game store created with React Native.
+- [Keking](https://github.com/bayue48/keking-bot) - Discord music bot made with discord.js
 
 ## Go
 
@@ -320,7 +322,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Yii2 Admin](https://github.com/mdmsoft/yii2-admin) - Auth manager for Yii2 (RBAC Manager).
 
-## Plugin
+## Plugins
 
 - [WP Slack](https://github.com/gedex/wp-slack) - This plugin allows you to send notifications to Slack channels when certain events in WordPress occur.
 - [Minimalist](https://github.com/dikiaap/minimalist) - A Material Colorscheme Darker for Vim.
@@ -416,11 +418,12 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
 - [Indonesia Belajar](https://www.youtube.com/c/IndonesiaBelajarKomputer)
 - [Erico Darmawan Handoyo0](https://www.youtube.com/c/EricoDarmawanHandoyo)
+- [Insinyur Online](https://www.youtube.com/c/InsinyurOnline)
 
 ## License
 
 ![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ##Hactoberfest 2021

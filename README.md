@@ -377,7 +377,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [Haskell Indonesia](https://github.com/haskell-id)
 - [Indonesian Ruby Community](https://github.com/id-ruby)
 - [Kotlin Indonesia](https://github.com/KotlinID)
-- [Node.js Indonesia](https://github.com/Node.js-indonesia)
+- [Node.js Indonesia](https://github.com/nodejs-indonesia)
 - [Hugo Indonesia](https://github.com/gohugoid)
 - [Lombokdev](https://github.com/LombokDev)
 - [Lombokjs](https://github.com/lombokjs)

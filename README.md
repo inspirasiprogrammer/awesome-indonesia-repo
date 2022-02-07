@@ -72,6 +72,9 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [TicTacToe](https://github.com/WendyYanto/android-tic-tac-toe) - Android Tic-Tac-Toe game built using Kotlin.
 - [SheenValidator](https://github.com/rizmaulana/SheenValidator) - Android library to ease form validation.
 - [SmartMarker](https://github.com/utsmannn/SmartMarker) - Smart helper for marker movement in Google Maps and Mapbox.
+- [a-navigator](https://github.com/rh-id/a-navigator) - Navigation framework for Android.
+- [a-provider](https://github.com/rh-id/a-provider) -  Service Locator library for Android.
+- [a-logger](https://github.com/rh-id/a-logger) - Simple log library for Android.
 
 ## Awesome List
 

@@ -163,7 +163,6 @@ This list aims to inspire others and hopefully give encouragement for individual
 
 - [juancuk-hs](https://github.com/bejoistic/juancuk-hs) - Onion vanity URL generator written in Haskell.
 - [blockell](https://github.com/bejoistic/blockell) - Experimental blockchain implementation using Haskell.
-- [Evil Factory Lab] (https://github.com/evilfactorylabs/rust)
 
 ## Rust
 

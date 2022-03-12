@@ -157,17 +157,18 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [Excel2Json](https://github.com/FerdinaKusumah/excel2json) - Convert your excel or excel datasource to json easily.
 - [Teleport](https://github.com/muhammadmuhlas/teleport) - A simple tool based on Go to migrate git repository.
 - [PHC Crypto](https://github.com/aldy505/phc-crypto) - Password hashing algorithm based on PHC standard, inspired by Upash package from Node.js.
-- [Imre Nagi](https://github.com/imrenagi/design-pattern) - Design pattern with Go
+- [Design Pattern](https://github.com/imrenagi/design-pattern) - Design pattern with Go
 
 ## Haskell
 
 - [juancuk-hs](https://github.com/bejoistic/juancuk-hs) - Onion vanity URL generator written in Haskell.
 - [blockell](https://github.com/bejoistic/blockell) - Experimental blockchain implementation using Haskell.
+- [Evil Factory Lab] (https://github.com/evilfactorylabs/rust)
 
 ## Rust
 
 - [Fido](https://github.com/codenoid/Fido) - Distributed Storage, Easily distribute your data accross disk/node.
-- [Evil Factory Labs](https://github.com/evilfactorylabs/belajar-rust) - Learn Rust From Scratch
+- [Learn Rust](https://github.com/evilfactorylabs/belajar-rust) - Learn Rust From Scratch
 
 ## JavaScript
 

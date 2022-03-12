@@ -167,6 +167,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 ## Rust
 
 - [Fido](https://github.com/codenoid/Fido) - Distributed Storage, Easily distribute your data accross disk/node.
+- [Evil Factory Labs](https://github.com/evilfactorylabs/belajar-rust) - Learn Rust From Scratch
 
 ## JavaScript
 

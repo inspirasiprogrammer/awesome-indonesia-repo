@@ -335,6 +335,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [Corona data api](https://github.com/FerdinaKusumah/corona-api) - Corona data api with realtime data.
 - [Generate Random Password](https://github.com/hrtywhy/Random-Password-Generator) - Generate your random password and send it via Gmail.
 - [PDDIKTI.kemdikbud](https://github.com/IlhamriSKY/PDDIKTI-kemdikbud-API) - Unofficial pddikti kemdikbud API Wrapper.
+- [Janda](https://github.com/sinkaroid/janda) - A featureful Python library covers most popular doujinshi API.
 
 ## R
 

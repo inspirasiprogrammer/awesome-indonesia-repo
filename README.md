@@ -203,6 +203,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [Malibu](https://github.com/tinyhttp/malibu) - Framework-agnostic CSRF middleware, for Express, vanilla HTTP, Tinyhttp, Polka, and more!
 - [giscus](https://github.com/giscus/giscus) - A comments system for any site, static or dynamic, powered by GitHub Discussions.
 - [carakan.js](https://github.com/masnormen/carakanjs) - Carakan.js is a small library for converting Latin script into Javanese script, also known as Aksara Jawa/Carakan.
+- [cabul](https://github.com/sinkaroid/cabul) - Cabul guide you to the NSFW world of reddit.
 
 ## Java
 
@@ -334,6 +335,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [Corona data api](https://github.com/FerdinaKusumah/corona-api) - Corona data api with realtime data.
 - [Generate Random Password](https://github.com/hrtywhy/Random-Password-Generator) - Generate your random password and send it via Gmail.
 - [PDDIKTI.kemdikbud](https://github.com/IlhamriSKY/PDDIKTI-kemdikbud-API) - Unofficial pddikti kemdikbud API Wrapper.
+- [Janda](https://github.com/sinkaroid/janda) - A featureful Python library covers most popular doujinshi API.
 
 ## R
 

@@ -303,6 +303,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [Free PMO](https://github.com/nafiesl/free-pmo) - Project management software for freelancers or agencies, built with Laravel 5.
 - [LaraCed (Laravel Creator-Editor-Destroyer)](https://github.com/RioRizkyRainey/LaraCed) - This package automatically inserts/updates creator, editor and destroyer on your table migrations.
 - [Indoregion](https://github.com/azishapidin/indoregion) - Package Data Provinsi, Kabupaten/Kota, Kecamatan/Distrik dan Desa/Kelurahan di Indonesia.
+- [Laravel Books API](https://github.com/yusuftaufiq/laravel-books-api) - Fully documented & tested Laravel 9 RESTful books API scraped from Gramedia.
 
 ## Slim
 

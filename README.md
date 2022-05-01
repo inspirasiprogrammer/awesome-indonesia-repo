@@ -419,6 +419,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [Indonesia Belajar](https://www.youtube.com/c/IndonesiaBelajarKomputer)
 - [Erico Darmawan Handoyo0](https://www.youtube.com/c/EricoDarmawanHandoyo)
 - [Insinyur Online](https://www.youtube.com/c/InsinyurOnline)
+- [Array ID](https://www.youtube.com/c/arrayid1)
 
 ## Contributors
 

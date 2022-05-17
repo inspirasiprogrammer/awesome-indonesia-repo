@@ -234,6 +234,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [Salat Time](https://github.com/widatama/salat-time) - Location based daily salat schedule.
 - [Tic Tac Vue](https://github.com/widatama/tic-tac-vue) - Tic tac toe game implemented with Vue.js.
 - [Guess the Number](https://github.com/widatama/guess-the-number) - A single player guess the number game made with Vue.js.
+- [Vuello](https://github.com/kurnyaannn/vuello) - Simple Trello Clone built using Vite-Vue + TailwindCSS
 
 ## Gridsome Starter
 

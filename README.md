@@ -131,6 +131,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 
 - [Bootstrap Markdown](https://github.com/toopay/bootstrap-markdown) - Bootstrap plugin for markdown editing.
 - [Marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
+- [Mazer](https://github.com/zuramai/mazer) - Clean, Elegant, and Free Bootstrap 5 Admin Dashboard Template 
 - [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
 - [React Komik](https://github.com/sonnylazuardi/react-komik) - ReactJS based comic strip creator using fabric.js canvas rendering.
 - [Stisla](https://github.com/stisla/stisla) - A free Bootstrap admin template which helps speed up your project and design your own dashboard UI.

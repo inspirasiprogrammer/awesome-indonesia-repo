@@ -280,6 +280,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [MIKHMON - MikroTik Hotspot Monitor](https://github.com/laksa19/mikhmonv3) - MikroTik Hotspot Monitor adalah aplikasi berbasis web (MikroTik API PHP class) untuk membantu manajemen Hotspot MikroTik. Khususnya MikroTik yang tidak mendukung User Manager.
 - [Pub/Sub Redis for PHP](https://github.com/RioRizkyRainey/pubsub-redis-php) - Implementasi Publisher-Subscriber Pattern pada PHP menggunakan Redis.
 - [PHP-Spellchecker](https://github.com/RioRizkyRainey/PHP-Spellchecker) - Spellchecker atau Typo detector menggunakan PHP. Tersedia juga assets dictionary untuk Bahasa Indonesia.
+- [PHP-SimpleScanDirektori](https://github.com/Jon3sjns/ScanDir/) - Scan direktori sederhana menggunakan php untuk pencarian direktori yang sensitif.
 - [PHP-E-Commerce](https://github.com/FadellMuhammad/E-commerce) - E-Commerce sederhana, terdapat fitur daftar,login dan profile.
 - [R_CRUD](https://github.com/ICWR-TEAM/R-CRUD) - CRUD PHP Plugins. Fungsi CRUD untuk mempermudah scripting yang berhubungan dengan CRUD.
 
